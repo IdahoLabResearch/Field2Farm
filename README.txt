@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository has been archived and is no longer maintained.**
+> The code is provided for historical reference and may contain unpatched
+> or unknown vulnerabilities. It should not be used in production systems.
+
+---
+
 Fields to Farms Conversion
 
 This script is designed to convert agricultural fields into farms based on specified size categories. The process involves grouping neighboring fields into farms until the desired number of farms in each size category is achieved.
